@@ -1,0 +1,23 @@
+{
+  "name": "linksammlung",
+  "description": "Enter Description Here",
+  "version": "0.0.1",
+  "homepage": "http://#",
+  "author": "You",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "coffee-script": ">= 1.x",
+    "mongoose": "*",
+    "coffeecup": "*",
+    "uglify-js": "*",
+    "connect-assets": "*",
+    "stylus": "*",
+    "nib": "*",
+    "express": "*"
+  },
+  "engines": { "node": "0.6 || 0.7" }
+}
+
