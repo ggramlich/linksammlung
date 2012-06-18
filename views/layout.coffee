@@ -1,7 +1,7 @@
 doctype 5
 html ->
   head ->
-    title 'Cupcake and CoffeeCup'
+    title @title
     meta charset: 'utf-8'
     title "#{@title} | My Site" if @title?
     meta(name: 'description', content: @description) if @description?
