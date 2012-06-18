@@ -16,7 +16,8 @@
     "connect-assets": "*",
     "stylus": "*",
     "nib": "*",
-    "express": "*"
+    "express": "*",
+    "coffeecup-helpers": "*"
   },
   "engines": { "node": "0.6 || 0.7" }
 }
